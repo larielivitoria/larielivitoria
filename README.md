@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação e trabalho atualmente como Balconista 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23dd0f1f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larielivitoria/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octoeli&theme=transparent&bg_color=bd1400&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larielivitoria&theme=transparent&bg_color=bd1400&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
 
 <!--
 **larielivitoria/larielivitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
