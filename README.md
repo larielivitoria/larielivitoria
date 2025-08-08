@@ -2,7 +2,11 @@
 
 Meu sonho é me tornar Engenheira de Software, especialista em BackEnd, com foco na construção da lógica, da estrutura e da inteligência que faz um Software funcionar.
 
-Escolhi esse caminho pois me desafia a pensar, resolver problemas e aprender continuamente.
+Com uma personalidade mais introvertida, de perfil introspectivo, que me permite observar com atenção, analisar cenários com profundidade e trabalhar com alto nível de concentração.
+
+Valorizo a organização, a clareza e a qualidade do trabalho a ser entregue.
+
+Meu estilo de comunicação é objetivo e assertivo, priorizando a escuta ativa para compreender necessidades e propor soluções de forma eficiente.
 
 
 
