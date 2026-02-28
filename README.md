@@ -1,12 +1,8 @@
 # Larieli Vitoria
 
-Meu sonho é me tornar Engenheira de Software, especialista em BackEnd, com foco na construção da lógica, da estrutura e da inteligência que faz um Software funcionar.
+Meu sonho é me tornar Engenheira de Software, especialista em Back-End, com foco na construção da lógica, da estrutura e da inteligência que faz um Software funcionar.
 
-Com uma personalidade mais introvertida, de perfil introspectivo, que me permite observar com atenção, analisar cenários com profundidade e trabalhar com alto nível de concentração.
-
-Valorizo a organização, a clareza e a qualidade do trabalho a ser entregue.
-
-Meu estilo de comunicação é objetivo e assertivo, priorizando a escuta ativa para compreender necessidades e propor soluções de forma eficiente.
+Com interesse genuíno principalmente em Programação Orientada a Objetos, e facínio pela complexidade dos MicroServiços, sigo aperfeiçoando meu conhecimento em Padrão DDD, com foco em uma boa arquitetura e código limpo.
 
 
 
