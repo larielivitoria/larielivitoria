@@ -40,11 +40,11 @@ Com interesse genuíno principalmente em Programação Orientada a Objetos, e fa
 
 ## 🔌 API
 
- - Minimal API
+ - Minimal APIs
 
  - Controllers
 
- - REST
+ - RESTful APIs
 
 ## ⚙️ Ferramentas
 
