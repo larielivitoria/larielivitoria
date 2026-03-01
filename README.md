@@ -6,7 +6,7 @@
 
 Meu objetivo é me tornar especialista em Back-End, com foco na construção da lógica, da estrutura e da inteligência que faz um Software funcionar.
 
-Com interesse genuíno principalmente em Programação Orientada a Objetos, e fascínio pela complexidade dos MicroServiços, sigo aperfeiçoando meus conhecimentos em DDD, com foco em uma arquitetura bem estruturada e código limpo.
+Com interesse genuíno principalmente em Programação Orientada a Objetos, e fascínio pela complexidade dos Microsserviços, sigo aperfeiçoando meus conhecimentos em DDD, com foco em uma arquitetura bem estruturada e código limpo.
 
 ## 🚀 Projetos em Destaque
  - [![InventorySales.Microservices](https://img.shields.io/badge/-InventorySales.Microservices-%236f42c1?style=for-the-badge)](https://github.com/larielivitoria/InventorySales.Microservices)
